@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a48a2c52-d22f-4f0d-9161-80f8b830a711" name="Changes" comment="Added weather advice for wearing shorts">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Stats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StatsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="a48a2c52-d22f-4f0d-9161-80f8b830a711" name="Changes" comment="Warmup2: Stats &amp; StatsTest Classes created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Stats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Stats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/StatsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/StatsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,30 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.WeatherAdviceTest">
+  <component name="RunManager" selected="Gradle.StatsTest.computeModeTest">
+    <configuration name="StatsTest.computeModeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.example.StatsTest.computeModeTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="WeatherAdviceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -109,6 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.StatsTest.computeModeTest" />
         <item itemvalue="Gradle.WeatherAdviceTest.testShouldWearJacket_whenColdOutside" />
         <item itemvalue="Gradle.WeatherAdviceTest" />
       </list>
@@ -172,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674576786216</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Warmup2: Stats &amp; StatsTest Classes created">
+      <created>1674660742303</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674660742303</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +221,7 @@
     <MESSAGE value="1. Make a failing test for a method in a new class that you haven't written yet." />
     <MESSAGE value="2. Write the code and the class to make the test pass" />
     <MESSAGE value="Added weather advice for wearing shorts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added weather advice for wearing shorts" />
+    <MESSAGE value="Warmup2: Stats &amp; StatsTest Classes created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Warmup2: Stats &amp; StatsTest Classes created" />
   </component>
 </project>
